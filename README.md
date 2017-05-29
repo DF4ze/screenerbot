@@ -12,6 +12,6 @@ Requires :
 
 Configuration :
 - All you need is to answer to every "define" in botConfig.php
-- Path to include this file in IceManager.php and ScreenerBot.php
+- Modify path to botConfig.php in "include" of this files : IceManager.php and ScreenerBot.php
 
 Many thanks to https://github.com/nibogd/ingress-ice and https://github.com/Eleirbag89/TelegramBotPHP
