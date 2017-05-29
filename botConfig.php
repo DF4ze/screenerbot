@@ -1,4 +1,7 @@
 <?php
+	define( 'BOT_KEY', "");
+	
+	
 	// Paths
 	define( 'ROOT_PATH', "/var/www/html/screenerbot/");
 	define( 'API_PATH', ROOT_PATH."ScreenerBotPHP/");

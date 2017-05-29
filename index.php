@@ -44,8 +44,7 @@
 
 	
 	// Launching bot
-	$bot_id = "";
-	$sc = new ScreenerBotPHP( $bot_id, $username, $simpleShot );
+	$sc = new ScreenerBotPHP( BOT_KEY, $username, $simpleShot );
 	
 	// post traitment
 	if( $username != null ){
