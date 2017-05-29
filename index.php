@@ -44,7 +44,7 @@
 
 	
 	// Launching bot
-	$bot_id = "341233753:AAHnxj2zbw4ts1CAt1lIIt5aZ3v4mZqzU5Q";
+	$bot_id = "";
 	$sc = new ScreenerBotPHP( $bot_id, $username, $simpleShot );
 	
 	// post traitment
